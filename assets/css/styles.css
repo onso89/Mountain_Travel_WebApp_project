@@ -178,3 +178,21 @@ header nav li {
   flex-basis: 70%
 }
 
+/* Packages Section  */
+
+.packages .grid li i {
+    padding: 50px;
+    flex-basis: 50%;
+    text-align: center;
+}
+
+.packages .grid li i {
+    color: #8c9eff;
+}
+
+.packages .grid li  h4{
+    font-size: 30px;
+    margin: 25px 0px;
+}
+
+
