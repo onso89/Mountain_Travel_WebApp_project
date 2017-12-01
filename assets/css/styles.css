@@ -180,7 +180,7 @@ header nav li {
 
 /* Packages Section  */
 
-.packages .grid li i {
+.packages .grid li  {
     padding: 50px;
     flex-basis: 50%;
     text-align: center;
