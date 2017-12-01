@@ -11,7 +11,21 @@ html{
  color: #555;
 }
 
+nav{
+  list-style: none;
+
+}
 a {
-  list-style:none; 
+    text-decoration: none;
+    opacity: 0.75;
+  }
+
+a:hover {
+    opacity: 1;
 }
 
+/* header styles  */
+
+header{
+    
+}
