@@ -73,6 +73,7 @@ section p {
     line-height: 2;
     padding: 0 20px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 /* header styles  */
@@ -155,3 +156,22 @@ header nav li {
         margin: 0;
     }
 }
+
+/* Destination Section  */
+
+.destinations .grid li {
+    height: 350px;
+    padding: 20px;
+    background-clip: content-box;
+    background-size: cover;
+    background-position: center;
+}
+
+.destinations .grid li.small {
+  flex-basis: 30%
+}
+
+.destinations .grid li.large {
+  flex-basis: 70%
+}
+
